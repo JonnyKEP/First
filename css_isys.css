@@ -1,0 +1,10 @@
+/* цвет для всех ссылок */
+a{color: #19308c}
+a:hover{color: #010103}
+/* стиль пояснений и примечаний */
+.texthelp {color: #5b5b5b; margin: 5px}
+/* стиль для имён авторов */
+.avtor {font-size: 12px; font-weight: bold; color: #446343}
+/* стиль кнопок <input type=submit> */
+.button {font-size: 11px; color: #264973; background-color: #d6e1e2;
+         padding: 1px; padding-left: 10px; padding-right: 10px}
